@@ -1,0 +1,2 @@
+# ReadChecker
+Kanboardのタスクをどのユーザが読んだか確認するためのプラグイン
